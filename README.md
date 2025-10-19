@@ -1,5 +1,7 @@
 hello I am ABear-code ,a IT
+
 ![ABear-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABear-code)
+
 ## 团队
 **clumm**
 **1914STUDIO**
@@ -34,9 +36,11 @@ MORE……
 - 版本控制: Git / SVN
 - 项目管理: Jira / Trello
 - CI/CD: Jenkins / GitLab CI
+-
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABear-code)
 
 MORE
+
 ![ABear-code's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ABear-code)
 
 
