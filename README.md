@@ -46,11 +46,11 @@ MORE……
 - 项目管理: Jira / Trello
 - CI/CD: Jenkins / GitLab CI
 -
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABear-code)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FZAoao)
 
 MORE
 
-![ABear-code's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ABear-code)
+![ABear-code's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FZAoao)
 
 
 
